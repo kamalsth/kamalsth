@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Kamal Shrestha
 
-<!--
-**kamalsth/kamalsth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | Go & Java | Distributed Systems
 
-Here are some ideas to get you started:
+I build scalable backend services, integrations, and event-driven systems.
+Currently working with Go, gRPC, Kafka, and cloud-native architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages**: Go, Java
+- **Backend**: gRPC, REST, Kafka
+- **Databases**: PostgreSQL, MySQL
+- **Messaging**: Kafka
+- **DevOps**: Docker, GitHub Actions
+- **Cloud**: AWS (basics)
+
+---
+
+## 📌 What I’m Working On
+- Webhook integrations (GitHub, WhatsApp, Messenger)
+- Event-driven microservices
+- CRM & messaging platforms
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalshrestha&show_icons=true)
+
+---
+
+## 📫 Connect with Me
+- Blog: https://yourblog.com
+- LinkedIn: https://linkedin.com/in/yourprofile
